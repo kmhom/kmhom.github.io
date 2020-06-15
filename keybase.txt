@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kmhom
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kmhom.github.io
+  * I am kmhom (https://keybase.io/kmhom) on keybase.
+  * I have a public key ASBmbr3X-dJc9I8G971VMg3EZmdFSgU4kkXc3N8wjtZ2SQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120666ebdd7f9d25cf48f06f7bd55320dc46667454a05389245dcdcdf308ed676490a",
+      "host": "keybase.io",
+      "kid": "0120666ebdd7f9d25cf48f06f7bd55320dc46667454a05389245dcdcdf308ed676490a",
+      "uid": "5e871772cbda9d352ad4b569d9998219",
+      "username": "kmhom"
+    },
+    "merkle_root": {
+      "ctime": 1592193243,
+      "hash": "c2b1f822ea702d928089096630d4c3f77ae53478149edc833001d143e604b5084c3e8db53fe1bfcc2772fd65f93d7e7c86bb1b8ebb3fd6bdca1b97dcc80dde30",
+      "hash_meta": "30e5b7903b2eb589380c83b48e6c3ddfb3846ce182a0f5d3849955a2ef7c48a7",
+      "seqno": 16666477
+    },
+    "service": {
+      "entropy": "3iuMXj9H+c3QxpsFbbe0NN3q",
+      "hostname": "kmhom.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1592193270,
+  "expire_in": 504576000,
+  "prev": "f80a9b472488225b277c73ed0e9b827f1a86e9cc8a5a361b1a7d54a9c0eaeb62",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZm691/nSXPSPBve9VTINxGZnRUoFOJJF3NzfMI7WdkkKp3BheWxvYWTESpcCBcQg+AqbRySIIlsnfHPtDpuCfxqG6cyKWjYbGn1UqcDq62LEIMn25Mnfkm6D+B0PG2VaIPx8ctuGds0Xo/xeD2wtyFRYAgHCo3NpZ8RALc+eQ76BuA1e4rmupHRA81mTWN6vUmwG6d+pn/HkfawncCSSYM70ZBALU7v+0+CxK8D3cSNrczo/nZ5y8UJmBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICpBQtNk1Dyy9Ok2+lfqEfTs+MKGbPLmOOjMYGN7s4hgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kmhom
+
+==================================================================
